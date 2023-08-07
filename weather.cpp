@@ -9,6 +9,7 @@
 #include <iomanip>
 #include <iostream>
 #include <string>
+#include <sstream>
 
 using json = nlohmann::json;
 namespace fs = std::filesystem;
